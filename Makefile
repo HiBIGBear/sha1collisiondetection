@@ -1,4 +1,4 @@
-##
+## 
 ## Copyright 2017 Marc Stevens <marc@marc-stevens.nl>, Dan Shumow (danshu@microsoft.com)
 ## Distributed under the MIT Software License.
 ## See accompanying file LICENSE.txt or copy at
